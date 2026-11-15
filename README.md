@@ -22,7 +22,7 @@
 
 ### `whoami`
 
-I'm Rithik — a developer who enjoys turning ideas into working software.
+I'm Rithik
 
 I build web applications, experiment with AI-powered experiences, and explore how thoughtful engineering can solve practical problems. I learn best by building, testing, and improving real projects.
 
