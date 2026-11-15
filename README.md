@@ -24,10 +24,6 @@
 
 I'm Rithik, a BCA graduate from Bangalore. I build web apps with Python and React, usually with an AI feature at the core. Rocky-LM, DEJAVU and Peblo Notes below are the best picture of what I can do.
 
-- 🛠️ **Stack:** Python (Flask, FastAPI), React, Next.js and TypeScript
-- 🔭 **Latest:** Rocky-LM, a study companion with quizzes, mind maps and interview practice
-- 💼 **Also:** freelance web development and content work
-
 ---
 
 ### `featured_projects/`
