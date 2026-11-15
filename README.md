@@ -82,12 +82,12 @@ Technologies I've used across my projects:
 ### `github_activity/`
 
 <div align="center">
-  <img src="https://ghstats.dev/api/card?username=rithikcr-mb&bg=000000&text=00FF41&title_color=00FF41&icon_color=008F11&border_color=003B00" alt="GitHub statistics for Rithik CR" width="90%" />
+  <img src="https://img.shields.io/github?label=Public%20Repositories&logo=github&style=flat-square&color=00FF41&labelColor=000000" alt="Public repositories" />
+  <img src="https://img.shields.io/github/followers/rithikcr-mb?label=Followers&logo=github&style=flat-square&color=00FF41&labelColor=000000" alt="GitHub followers" />
+  <img src="https://img.shields.io/github/stars/rithikcr-mb?affiliations=OWNER&label=Stars&logo=github&style=flat-square&color=00FF41&labelColor=000000" alt="Stars on owned repositories" />
   <br />
-  <sub><a href="https://github.com/rithikcr-mb">View my repositories and language breakdown on GitHub ↗</a></sub>
+  <sub><a href="https://github.com/rithikcr-mb?tab=repositories">Explore repositories</a> · <a href="https://github.com/rithikcr-mb?tab=overview">View contribution activity</a></sub>
 </div>
-
-> GitHub also displays my contribution calendar directly on my profile.
 
 ---
 
