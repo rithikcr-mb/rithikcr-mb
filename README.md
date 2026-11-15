@@ -82,9 +82,12 @@ Technologies I've used across my projects:
 ### `github_activity/`
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=rithikcr-mb&show_icons=true&hide_border=true&bg_color=000000&title_color=00FF41&icon_color=008F11&text_color=00FF41&ring_color=00FF41" alt="GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rithikcr-mb&layout=compact&hide_border=true&bg_color=000000&title_color=00FF41&text_color=00FF41" alt="Most used languages" />
+  <img src="https://ghstats.dev/api/card?username=rithikcr-mb&bg=000000&text=00FF41&title_color=00FF41&icon_color=008F11&border_color=003B00" alt="GitHub statistics for Rithik CR" width="90%" />
+  <br />
+  <sub><a href="https://github.com/rithikcr-mb">View my repositories and language breakdown on GitHub ↗</a></sub>
 </div>
+
+> GitHub also displays my contribution calendar directly on my profile.
 
 ---
 
